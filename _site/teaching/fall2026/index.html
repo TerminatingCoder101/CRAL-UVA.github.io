@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<!--
+
+  _                    _  _                 _         _
+ | |                  | |(_)               | |       | |
+ | | __ ___   _ __  __| | _  _ __    __ _  | |  __ _ | |__
+ | |/ // _ \ | '__|/ _` || || '_ \  / _` | | | / _` || '_ \
+ |   <| (_) || |  | (_| || || | | || (_| | | || (_| || |_) |
+ |_|\_\\___/ |_|   \__,_||_||_| |_| \__, | |_| \__,_||_.__/
+                                     __/ |
+                                    |___/
+
+
+I love those that desire the impossible - Goethe.
+(if you get email from Konrad, you will see this quote)
+
+                boing         boing         boing
+      e-e           . - .         . - .         . - .
+     (\_/)\       '       `.   ,'       `.   ,'       .
+      `-'\ `--.___,         . .           . .          .
+         '\( ,_.-'
+            \\               "             "            a:f
+            ^'
+
+^ This is basically T-Rex jumping
+
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CS 2120 - Discrete Mathematics (Fall 2026)</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+  <link href="http://localhost:4000/css/zoom.css" rel="stylesheet">
+  <script src="http://localhost:4000/js/zoom.js"></script>
+  <script src="http://localhost:4000/js/transition.js"></script>
+
+  <link rel="stylesheet" href="/style.css">
+  <!-- favicon -->
+  <link rel="shortcut icon" href="http://localhost:4000/images/logo/delta.png">
+  <link rel="shortcut icon" href="http://localhost:4000/images/logo/delta.png">
+  <link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/logo/apple-touch-icon-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/logo/delta.png
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/logo/delta.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/logo/delta.png">
+
+  <!-- open graph -->
+
+  
+  
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="http://localhost:4000/teaching/fall2026/">
+  <meta property="og:title" content="CS 2120 - Discrete Mathematics (Fall 2026)">
+  <meta property="og:site_name" content="Chandra Robot Δutonomy Lab at the University of Virginia">
+  <meta property="og:description" content="
+  
+  Fall 2026
+Professor Chandra will teach CS 2120 - Discrete Mathematics and Theory 1 in Fall 2026.
+
+Course Schedule
+
+
+  
+    
+      Date
+      ..." />
+  <meta property="og:image" content="http://localhost:4000/images/logo/delta_7.png">
+
+</head>
+
+<script>
+/**
+* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//kordinglab.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<body id="page-top" style="padding-top: 6em;">
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class='navbar-brand page-scroll' href='/'>
+              <span style='font-family:"Open Sans" font-weight:300'>Chandra Robot Δutonomy Lab</span>
+              </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
+                      
+                      <li><a class='name' href="/publication">research</a></li>
+                      
+                      <li><a class='name' href="/people">team</a></li>
+                      
+                      <li><a class='name' href="/presentations">teaching</a></li>
+                      
+                    </ul>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+</nav>
+
+    <div class="container content page">
+  <!-- <h1 class="page-title">CS 2120 - Discrete Mathematics (Fall 2026)</h1> -->
+  <h3 id="fall-2026">Fall 2026</h3>
+<p>Professor Chandra will teach CS 2120 - Discrete Mathematics and Theory 1 in Fall 2026.</p>
+
+<h2 id="course-schedule">Course Schedule</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Lecture #</th>
+      <th>Day</th>
+      <th>Topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aug 25 2026</td>
+      <td>Lecture 1</td>
+      <td>Tuesday</td>
+      <td>Intro + Logic-I</td>
+    </tr>
+    <tr>
+      <td>Aug 27 2026</td>
+      <td>Lecture 2</td>
+      <td>Thursday</td>
+      <td>Math Review (Vignesh)</td>
+    </tr>
+    <tr>
+      <td>Sep 1 2026</td>
+      <td>Lecture 3</td>
+      <td>Tuesday</td>
+      <td>Logic-II</td>
+    </tr>
+    <tr>
+      <td>Sep 3 2026</td>
+      <td>Lecture 4</td>
+      <td>Thursday</td>
+      <td><strong>HW1 Due</strong>: Reasoning + Circuits-I</td>
+    </tr>
+    <tr>
+      <td>Sep 8 2026</td>
+      <td>Lecture 5</td>
+      <td>Tuesday</td>
+      <td>Reasoning + Circuits-II</td>
+    </tr>
+    <tr>
+      <td>Sep 10 2026</td>
+      <td>Lecture 6</td>
+      <td>Thursday</td>
+      <td>Sets</td>
+    </tr>
+    <tr>
+      <td>Sep 15 2026</td>
+      <td>Lecture 7</td>
+      <td>Tuesday</td>
+      <td><strong>HW2 Due</strong>: Quantifiers-I</td>
+    </tr>
+    <tr>
+      <td>Sep 17 2026</td>
+      <td>Lecture 8</td>
+      <td>Thursday</td>
+      <td>Quantifiers-II</td>
+    </tr>
+    <tr>
+      <td>Sep 22 2026</td>
+      <td>Lecture 9</td>
+      <td>Tuesday</td>
+      <td><strong>HW3 Due</strong>: Proofs-I</td>
+    </tr>
+    <tr>
+      <td>Sep 24 2026</td>
+      <td>Lecture 10</td>
+      <td>Thursday</td>
+      <td>Proofs-II</td>
+    </tr>
+    <tr>
+      <td>Sep 29 2026</td>
+      <td>Lecture 11</td>
+      <td>Tuesday</td>
+      <td>Proofs-III (Jeff)</td>
+    </tr>
+    <tr>
+      <td>Oct 1 2026</td>
+      <td>Lecture 12</td>
+      <td>Thursday</td>
+      <td><strong>HW4 Due</strong>: Proofs-IV (Jeff)</td>
+    </tr>
+    <tr>
+      <td>Oct 6 2026</td>
+      <td> </td>
+      <td>Tuesday</td>
+      <td><span style="color:red">No Class (Reading Days)</span></td>
+    </tr>
+    <tr>
+      <td>Oct 8 2026</td>
+      <td> </td>
+      <td>Thursday</td>
+      <td><span style="color:green">Midterm 1</span></td>
+    </tr>
+    <tr>
+      <td>Oct 13 2026</td>
+      <td>Lecture 13</td>
+      <td>Tuesday</td>
+      <td>Proofs-V</td>
+    </tr>
+    <tr>
+      <td>Oct 15 2026</td>
+      <td>Lecture 14</td>
+      <td>Thursday</td>
+      <td>Proofs-VI</td>
+    </tr>
+    <tr>
+      <td>Oct 20 2026</td>
+      <td>Lecture 15</td>
+      <td>Tuesday</td>
+      <td><strong>HW5 Due</strong>: Functions + Relations-I</td>
+    </tr>
+    <tr>
+      <td>Oct 22 2026</td>
+      <td>Lecture 16</td>
+      <td>Thursday</td>
+      <td>Functions + Relations-II</td>
+    </tr>
+    <tr>
+      <td>Oct 27 2026</td>
+      <td>Lecture 17</td>
+      <td>Tuesday</td>
+      <td><strong>HW6 Due</strong>: Sequences-I</td>
+    </tr>
+    <tr>
+      <td>Oct 29 2026</td>
+      <td>Lecture 18</td>
+      <td>Thursday</td>
+      <td>Sequences-II + Induction-I</td>
+    </tr>
+    <tr>
+      <td>Nov 3 2026</td>
+      <td> </td>
+      <td>Tuesday</td>
+      <td><span style="color:red">No Class (Election Day)</span></td>
+    </tr>
+    <tr>
+      <td>Nov 5 2026</td>
+      <td>Lecture 19</td>
+      <td>Thursday</td>
+      <td>Induction-II</td>
+    </tr>
+    <tr>
+      <td>Nov 10 2026</td>
+      <td>Lecture 20</td>
+      <td>Tuesday</td>
+      <td><strong>HW7 Due</strong>: Induction-III</td>
+    </tr>
+    <tr>
+      <td>Nov 12 2026</td>
+      <td>Lecture 21</td>
+      <td>Thursday</td>
+      <td>Induction-IV</td>
+    </tr>
+    <tr>
+      <td>Nov 17 2026</td>
+      <td>Lecture 22</td>
+      <td>Tuesday</td>
+      <td><strong>HW8 Due</strong>: Induction-V</td>
+    </tr>
+    <tr>
+      <td>Nov 19 2026</td>
+      <td> </td>
+      <td>Thursday</td>
+      <td><span style="color:green">Midterm 2</span></td>
+    </tr>
+    <tr>
+      <td>Nov 24 2026</td>
+      <td> </td>
+      <td>Tuesday</td>
+      <td><span style="color:red">No Class (Thanksgiving Recess)</span></td>
+    </tr>
+    <tr>
+      <td>Nov 26 2026</td>
+      <td> </td>
+      <td>Thursday</td>
+      <td><span style="color:red">No Class (Thanksgiving Recess)</span></td>
+    </tr>
+    <tr>
+      <td>Dec 1 2026</td>
+      <td>Lecture 23</td>
+      <td>Tuesday</td>
+      <td>P and C-I</td>
+    </tr>
+    <tr>
+      <td>Dec 3 2026</td>
+      <td>Lecture 24</td>
+      <td>Thursday</td>
+      <td>P and C-II</td>
+    </tr>
+    <tr>
+      <td>Dec 8 2026</td>
+      <td>Lecture 25</td>
+      <td>Tuesday</td>
+      <td>Review</td>
+    </tr>
+    <tr>
+      <td>Dec 10 2026</td>
+      <td> </td>
+      <td>Thursday</td>
+      <td><span style="color:green">Final</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="regrade-policy">Regrade Policy</h2>
+
+<p>You have up to <strong>one (1) full business day</strong> after the release of grades to submit regrade requests. For example, if grades are released anytime on a Friday, you have until Monday 11:59pm to submit regrade requests. We are implementing this policy to maintain a smooth, synchronous balance between Gradescope and Canvas.</p>
+
+<h2 id="late-submission-policy">Late Submission Policy</h2>
+
+<p>You can submit a late homework by <strong>end of the next day for 50% credit</strong>. For example, if a homeworks is due on Thursday, then you can submit by Friday 11:59pm for 50% credit.</p>
+
+<h2 id="gradescope-submission-best-practices">Gradescope Submission Best Practices</h2>
+
+<p>(MUST WATCH: <a href="https://guides.gradescope.com/hc/en-us/articles/21864315441677-Submitting-a-PDF-for-an-assignment">Submitting a PDF for an assignment</a>)</p>
+
+<ul>
+  <li>Submit PDFs. Gradescope has an app that can help scan your file.</li>
+  <li>Tag the question number to the page of your scan on Gradescope. Once you do this, re-verify that you did it properly before submitting.</li>
+  <li>Make sure your scans are legible. If we receive unreadable work, we will give a first time warning. If subsequent scans are similarly unreadable, you will incur a penalty.</li>
+  <li>Work that does not follow these guidelines incurs a <strong>20 point penalty</strong>. For example, if your score is a 95, but you failed to adhere to the submission standards, your final score after the penalty will be 85.</li>
+</ul>
+
+<h2 id="accommodations-policy">Accommodations Policy</h2>
+
+<p>If you cannot meet an exam or homework deadline due to extenuating circumstances such as traveling for a tournament, then documentation is required to be submitted to the Professor at <strong>least 4 days days</strong> in advance (this applies to medical issues as well). This buffer is important to make sure the Professor has enough time to make alternative arrangements.</p>
+
+<p>For medical issues, only serious illnesses and cases will warrant accommodations and will require a note from the doctor. Minor medical issues (cold/cough etc.) will not warrant accommodations.</p>
+
+<h2 id="make-up-exam-policy">Make up Exam Policy</h2>
+
+<p>If you do request rescheduling an exam, the make-up exam will be an oral assignment where we will meet in my office on a day and time of our choosing, and I will ask you oral questions and you will demonstrate the answers on the board. The type and length of questions will be up to my discretion. The topics of the questions asked will be up to and including constructive induction (that is, no combinatorics).
+This will need to be scheduled between 12/1 and 12/9.
+This will be worth up to 10% of the overall grade.</p>
+
+<h2 id="honor">Honor</h2>
+
+<p>Please note these guidelines: <a href="https://honor.virginia.edu/faculty-tas">https://honor.virginia.edu/faculty-tas</a></p>
+
+<h2 id="use-of-generative-ai">Use of Generative AI</h2>
+
+<p>Using generative AI tools such as ChatGPT to complete homeworks is prohibited.</p>
+
+<h2 id="students-with-disabilities-or-learning-needs">Students with Disabilities or Learning Needs</h2>
+
+<p>It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options for removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.</p>
+
+<h2 id="religious-accommodations">Religious Accommodations</h2>
+
+<p>It is the University’s long standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.</p>
+
+<p>Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434.924.3200.</p>
+
+<h2 id="harassment-discrimination-and-interpersonal-violence">Harassment, Discrimination, and Interpersonal Violence</h2>
+
+<p>The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available: <a href="https://www.virginia.edu/sexualviolence">www.virginia.edu/sexualviolence</a>.</p>
+
+<p>The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.</p>
+
+<p>If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR, the office of Equal Opportunity and Civil Rights.</p>
+
+<p>If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling &amp; Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).</p>
+
+<p>As your professor and as a person, know that I care about you and your well being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community.</p>
+
+<h2 id="learning">Learning</h2>
+
+<ul>
+  <li>Lisa Lampe, Assistant Dean for Undergraduate Affairs</li>
+  <li>Georgina Nembhard, Director of Student Success</li>
+  <li>Courtney MacMasters, Accessibility Specialist</li>
+</ul>
+
+<p>Free tutoring is available for most classes.</p>
+
+<h2 id="health-and-wellbeing">Health and Wellbeing</h2>
+
+<ul>
+  <li>Kelly Garrett, Assistant Dean of Students, Student Safety and Support</li>
+  <li>Elizabeth Ramirez-Weaver, CAPS counselor*</li>
+  <li>Katie Fowler, CAPS counselor*</li>
+</ul>
+
+<p>*You may schedule time with the CAPS counselors through Student Health (<a href="https://www.studenthealth.virginia.edu/getting-started-caps">https://www.studenthealth.virginia.edu/getting-started-caps</a>). When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on demand 24/7 mental health care.</p>
+
+<h2 id="community-and-identity">Community and Identity</h2>
+
+<p>The Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.</p>
+
+</div>
+
+
+    <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script>
+    <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-34145995-1");
+    pageTracker._trackPageview();
+    </script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34145995-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-34145995-1');
+    </script>
+
+</body>
+</html>
