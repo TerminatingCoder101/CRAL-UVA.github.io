@@ -25,424 +25,15 @@ permalink: /publication/
   </div>
 </div>
 
-<div id="publicationsList">
-
-<h4>2026</h4>
-
-<div class="publication-item" data-year="2026" data-authors="Wentao Zhou, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng" data-venue="IROS">
-<p class="title">Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision</p>
-<p class="authors">Wentao Zhou, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng</p>
-<p class="venue">IEEE/RSJ Conference on Intelligent Robots and Systems (IROS), 2026</p>
-<p class="links"><a href="https://arxiv.org/pdf/2512.10956">PDF</a><a href="https://www.cs.virginia.edu/~tsx4zn/stereowalk/">Project</a></p>
+<div id="publicationsList"
+     data-bib="{{ '/documents/references.bib' | relative_url }}?v={{ site.time | date: '%s' }}">
 </div>
 
-<div class="publication-item" data-year="2026" data-authors="Daeun Song, Nhat Le, Jeffrey Chen, Mohammad Nazeri, Amirreza Payandeh, Rohan Chandra, Reuth Mirsky, Ross Mead, Ling Xiao, Xuesu Xiao" data-venue="IROS">
-<p class="title">HUMAIN: Human-Aware Implicit Social Robot Navigation</p>
-<p class="authors">Daeun Song, Nhat Le, Jeffrey Chen, Mohammad Nazeri, Amirreza Payandeh, Rohan Chandra, Reuth Mirsky, Ross Mead, Ling Xiao, Xuesu Xiao</p>
-<p class="venue">IEEE/RSJ Conference on Intelligent Robots and Systems (IROS), 2026</p>
-<p class="links"><a href="">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2026" data-authors="Amir Moeini, Minjae Kwon, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, Shangtong Zhang" data-venue="ICML">
-<p class="title">Safe In-Context Reinforcement Learning</p>
-<p class="authors">Amir Moeini, Minjae Kwon, Alper Kamil Bozkurt, Yuichi Motai, Rohan Chandra, Lu Feng, Shangtong Zhang</p>
-<p class="venue">Forty-third International Conference on Machine Learning (ICML), 2026</p>
-<p class="links"><a href="https://arxiv.org/pdf/2509.25582">PDF</a></p>
-</div>  
-
-<div class="publication-item" data-year="2026" data-authors="Rohan Chandra, Shubham Singh, Wenhao Luo, Katia Sycara" data-venue="AR">
-<p class="title">Multi-Robot Navigation in Social Mini-Games: Definitions, Taxonomy, and Algorithms</p>
-<p class="authors">Rohan Chandra, Shubham Singh, Wenhao Luo, Katia Sycara</p>
-<p class="venue">Autonomous Robots, 2026</p>
-<p class="links"><a href="https://arxiv.org/pdf/2508.13459">PDF</a><a href="https://socialminigames.github.io/">Project</a></p>
-</div>
-
-
-<div class="publication-item" data-year="2026" data-authors="Timur Anvar, Jeffrey Chen, Yuyan Wang, Rohan Chandra" data-venue="ICRA">
-<p class="title">Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning for Decentralized Autonomous Driving</p>
-<p class="authors">Timur Anvar, Jeffrey Chen, Yuyan Wang, Rohan Chandra</p>
-<p class="venue">2025 IEEE International Conference on Robotics and Automation (ICRA), 2026</p>
-<p class="links"><a href="https://arxiv.org/pdf/2511.12751">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2026" data-authors="Kefan Song, Amir Moeini, Peng Wang, Lei Gong, Rohan Chandra, Shangtong Zhang, Yanjun Qi" data-venue="ICRL">
-<p class="title">Reward Is Enough: LLMs are In-context Reinforcement Learners</p>
-<p class="authors">Kefan Song, Amir Moeini, Peng Wang, Lei Gong, Rohan Chandra, Shangtong Zhang, Yanjun Qi</p>
-<p class="venue">The Fourteenth International Conference on Learning Representations (ICLR), 2026</p>
-<p class="links"><a href="https://arxiv.org/pdf/2506.06303">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2026" data-authors="Xijun Wang, Pedro Sandoval-Segura, Chengyuan Zhang, Junyun Huang, Tianrui Guan, Ruiqi Xian, Fuxiao Liu, Rohan Chandra, Boqing Gong, Dinesh Manocha" data-venue="IV">
-<p class="title">DAVE: Diverse Atomic Visual Elements Dataset with High Representation of Vulnerable Road Users in Complex and Unpredictable Environments</p>
-<p class="authors">Xijun Wang, Pedro Sandoval-Segura, Chengyuan Zhang, Junyun Huang, Tianrui Guan, Ruiqi Xian, Fuxiao Liu, Rohan Chandra, Boqing Gong, Dinesh Manocha</p>
-<p class="venue">IEEE Intelligent Vehicles, 2026</p>
-<p class="links"><a href="https://arxiv.org/pdf/2412.20042">PDF</a></p>
-</div>
-
-<h4>2025</h4>
-
-<div class="publication-item" data-year="2025" data-authors="Vagul Mahadevan, Shangtong Zhang, Rohan Chandra" data-venue="MRS">
-<p class="title">GameChat: Multi-LLM Dialogue for Safe, Agile, and Socially Optimal Multi-Agent Navigation in Constrained Environments</p>
-<p class="authors">Vagul Mahadevan, Shangtong Zhang, Rohan Chandra</p>
-<p class="venue">IEEE MRS, 2025</p>
-<p class="links"><a href="https://arxiv.org/pdf/2503.12333">PDF</a>, <a href="https://gamechat-uva.github.io/">Project</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Nilesh Suriyarachchi, Rohan Chandra, Arya Anantula, John S Baras, Dinesh Manocha" data-venue="MRS">
-<p class="title">GAMEOPT+: Improving Fuel Efficiency in Unregulated Heterogeneous Traffic Intersections via Optimal Multi-agent Cooperative Control</p>
-<p class="authors">Nilesh Suriyarachchi, Rohan Chandra, Arya Anantula, John S Baras, Dinesh Manocha</p>
-<p class="venue">IEEE MRS, 2025</p>
-<p class="links"><a href="https://arxiv.org/pdf/2405.16430">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Zixuan Xie, Xinyu Liu, Rohan Chandra, Shangtong Zhang " data-venue="NeurIPS">
-<p class="title">Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features</p>
-<p class="authors">Zixuan Xie, Xinyu Liu, Rohan Chandra, Shangtong Zhang</p>
-<p class="venue">NeurIPS, 2025</p>
-<p class="links"><a href="https://openreview.net/pdf?id=3lVBn7U07P">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Jiuqi Wang, Rohan Chandra, Shangtong Zhang" data-venue="NeurIPS">
-<p class="title">Towards Provable Emergence of In-Context Reinforcement Learning</p>
-<p class="authors">Jiuqi Wang, Rohan Chandra, Shangtong Zhang</p>
-<p class="venue">NeurIPS, 2025</p>
-<p class="links"><a href="https://openreview.net/pdf?id=bdFJbP7542">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Rohan Chandra, Haresh Karnan, Negar Mehr, Peter Stone, Joydeep Biswas" data-venue="IROS">
-<p class="title">Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds</p>
-<p class="authors">Rohan Chandra, Haresh Karnan, Negar Mehr, Peter Stone, Joydeep Biswas</p>
-<p class="venue">IROS, 2025</p>
-<p class="links"><a href="https://arxiv.org/pdf/2405.16439">PDF</a>, <a href="https://mairl-uva.github.io/">Project</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Kefan Song, Jin Yao, Runnan Jiang, Rohan Chandra, Shangtong Zhang" data-venue="Reinforcement Learning Conference">
-<p class="title">Towards Large Language Models that Benefit for All: Benchmarking Group Fairness in Reward Models</p>
-<p class="authors">Kefan Song, Jin Yao, Runnan Jiang, Rohan Chandra, Shangtong Zhang</p>
-<p class="venue">Reinforcement Learning Conference, 2025</p>
-<p class="links"><a href="https://arxiv.org/pdf/2503.07806">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Rohan Chandra, Vrushabh Zinage, Efstathios Bakolas, Peter Stone, Joydeep Biswas" data-venue="Autonomous Robots">
-<p class="title">Deadlock-free, Safe, and Decentralized Multi-Robot Navigation in Social Mini-Games via Discrete-Time Control Barrier Functions</p>
-<p class="authors">Rohan Chandra, Vrushabh Zinage, Efstathios Bakolas, Peter Stone, Joydeep Biswas</p>
-<p class="venue">Autonomous Robots, 2025</p>
-<p class="links"><a href="https://link.springer.com/content/pdf/10.1007/s10514-025-10194-8.pdf">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Srikar Gouru, Siddharth Lakkoju, Rohan Chandra" data-venue="L4DC">
-<p class="title">LiveNet: Robust, Minimally Invasive Multi-Robot Control for Safe and Live Navigation in Constrained Environments</p>
-<p class="authors">Srikar Gouru, Siddharth Lakkoju, Rohan Chandra</p>
-<p class="venue">7th Annual Learning for Dynamics & Control Conference (L4DC), 2025</p>
-<p class="links"><a href="https://livenet-uva.github.io/">PDF</a>, <a href="https://livenet-uva.github.io/">Project</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Anthony Francis, Claudia Pérez-d'Arpino, Chengshu Li, Fei Xia, Alexandre Alahi, Rachid Alami, Aniket Bera, Abhijat Biswas, Joydeep Biswas, Rohan Chandra, others" data-venue="T-HRI">
-<p class="title">Principles and guidelines for evaluating social robot navigation algorithms</p>
-<p class="authors">Anthony Francis, Claudia Pérez-d'Arpino, Chengshu Li, Fei Xia, Alexandre Alahi, Rachid Alami, Aniket Bera, Abhijat Biswas, Joydeep Biswas, Rohan Chandra, others</p>
-<p class="venue">Transactions on Human-Robot Interaction (T-HRI), 2025</p>
-<p class="links"><a href="https://dl.acm.org/doi/full/10.1145/3700599">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2025" data-authors="Vrushabh Zinage, Abhishek Jha, Rohan Chandra, Efstathios Bakolas" data-venue="ICRA">
-<p class="title">Decentralized Safe and Scalable Multi-Agent Control under Limited Actuation</p>
-<p class="authors">Vrushabh Zinage, Abhishek Jha, Rohan Chandra, Efstathios Bakolas</p>
-<p class="venue">2025 IEEE International Conference on Robotics and Automation (ICRA), 2025</p>
-<p class="links"><a href="https://maicbf.github.io/">Project</a></p>
-</div>
-
-<h4>2024</h4>
-<div class="publication-item" data-year="2024" data-authors="Chen Tang, Ben Abbatematteo, Jiaheng Hu, Rohan Chandra, Roberto Martín-Martín, Peter Stone" data-venue="Annual Review of Control, Robotics, and Autonomous Systems">
-<p class="title">Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes</p>
-<p class="authors">Chen Tang, Ben Abbatematteo, Jiaheng Hu, Rohan Chandra, Roberto Martín-Martín, Peter Stone</p>
-<p class="venue">Annual Review of Control, Robotics, and Autonomous Systems, 2024</p>
-<p class="links"><a href="https://arxiv.org/abs/2306.16740">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2024" data-authors="Jennifer Williams, Eike Schneiders, Henry Card, Tina Seabrooke, Beatrice Pakenham-Walsh, Tayyaba Azim, Lucy Valls-Reed, Ganesh Vigneswaran, John Robert Bautista, Rohan Chandra, Arya Farahi" data-venue="INTERSPEECH">
-<p class="title">Predicting Acute Pain Levels Implicitly from Vocal Features</p>
-<p class="authors">Jennifer Williams, Eike Schneiders, Henry Card, Tina Seabrooke, Beatrice Pakenham-Walsh, Tayyaba Azim, Lucy Valls-Reed, Ganesh Vigneswaran, John Robert Bautista, Rohan Chandra, Arya Farahi</p>
-<p class="venue">INTERSPEECH, 2024</p>
-<p class="links"><a href="#">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2024" data-authors="Rohan Chandra, Zayne Sprague, Joydeep Biswas" data-venue="AAAI">
-<p class="title">SOCIALGYM 2.0: Simulator for Multi-Robot Learning and Navigation in Shared Human Spaces</p>
-<p class="authors">Rohan Chandra, Zayne Sprague, Joydeep Biswas</p>
-<p class="venue">Proceedings of the AAAI Conference on Artificial Intelligence, 2024</p>
-<p class="links"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/30562/32724">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2024" data-authors="Amir Hossain Raj, Zichao Hu, Haresh Karnan, Rohan Chandra, Amirreza Payandeh, Luisa Mao, Peter Stone, Joydeep Biswas, Xuesu Xiao" data-venue="ICRA">
-<p class="title">Rethinking social robot navigation: Leveraging the best of two worlds</p>
-<p class="authors">Amir Hossain Raj, Zichao Hu, Haresh Karnan, Rohan Chandra, Amirreza Payandeh, Luisa Mao, Peter Stone, Joydeep Biswas, Xuesu Xiao</p>
-<p class="venue">2024 IEEE International Conference on Robotics and Automation (ICRA), 2024</p>
-<p class="links"><a href="https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/karnansocial2024.pdf">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2024" data-authors="Chirag Parikh, Ravi Shankar Mishra, Rohan Chandra, Ravi Kiran Sarvadevabhatla" data-venue="arXiv">
-<p class="title">Transfer-LMR: Heavy-Tail Driving Behavior Recognition in Diverse Traffic Scenarios</p>
-<p class="authors">Chirag Parikh, Ravi Shankar Mishra, Rohan Chandra, Ravi Kiran Sarvadevabhatla</p>
-<p class="venue">arXiv preprint arXiv:2405.05354, 2024</p>
-<p class="links"><a href="https://arxiv.org/pdf/2405.05354">PDF</a></p>
-</div>
-
-<h4>2023</h4>
-<div class="publication-item" data-year="2023" data-authors="Rohan Chandra, Rahul Maligi, Arya Anantula, Joydeep Biswas" data-venue="IEEE Robotics and Automation Letters">
-<p class="title">Socialmapf: Optimal and efficient multi-agent path finding with strategic agents for social navigation</p>
-<p class="authors">Rohan Chandra, Rahul Maligi, Arya Anantula, Joydeep Biswas</p>
-<p class="venue">IEEE Robotics and Automation Letters, 2023</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/10093969/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2023" data-authors="Rohan Chandra, Xijun Wang, Mridul Mahajan, Rahul Kala, Rishitha Palugulla, Chandrababu Naidu, Alok Jain, Dinesh Manocha" data-venue="ICRA">
-<p class="title">Meteor: A dense, heterogeneous, and unstructured traffic dataset with rare behaviors</p>
-<p class="authors">Rohan Chandra, Xijun Wang, Mridul Mahajan, Rahul Kala, Rishitha Palugulla, Chandrababu Naidu, Alok Jain, Dinesh Manocha</p>
-<p class="venue">2023 IEEE International Conference on Robotics and Automation (ICRA), 2023</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/10161281/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2023" data-authors="Xiyang Wu, Rohan Chandra, Tianrui Guan, Amrit Bedi, Dinesh Manocha" data-venue="CoRL">
-<p class="title">Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning</p>
-<p class="authors">Xiyang Wu, Rohan Chandra, Tianrui Guan, Amrit Bedi, Dinesh Manocha</p>
-<p class="venue">Conference on Robot Learning, 2023</p>
-<p class="links"><a href="https://proceedings.mlr.press/v229/wu23b.html">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2023" data-authors="Amir Hossain Raj, Zichao Hu, Haresh Karnan, Rohan Chandra, Amirreza Payandeh, Luisa Mao, Peter Stone, Joydeep Biswas, Xuesu Xiao" data-venue="arXiv">
-<p class="title">Targeted Learning: A Hybrid Approach to Social Robot Navigation</p>
-<p class="authors">Amir Hossain Raj, Zichao Hu, Haresh Karnan, Rohan Chandra, Amirreza Payandeh, Luisa Mao, Peter Stone, Joydeep Biswas, Xuesu Xiao</p>
-<p class="venue">arXiv preprint arXiv:2309.13466, 2023</p>
-<p class="links"><a href="https://arxiv.org/abs/2309.13466">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2023" data-authors="Vrushabh Zinage, Rohan Chandra, Efstathios Bakolas" data-venue="arXiv">
-<p class="title">Disturbance Observer-based Robust Integral Control Barrier Functions for Nonlinear Systems with High Relative Degree</p>
-<p class="authors">Vrushabh Zinage, Rohan Chandra, Efstathios Bakolas</p>
-<p class="venue">arXiv preprint arXiv:2309.16945, 2023</p>
-<p class="links"><a href="https://arxiv.org/abs/2309.16945">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2023" data-authors="Vrushabh Zinage, Rohan Chandra, Efstathios Bakolas" data-venue="arXiv">
-<p class="title">Neural Differentiable Integral Control Barrier Functions for Unknown Nonlinear Systems with Input Constraints</p>
-<p class="authors">Vrushabh Zinage, Rohan Chandra, Efstathios Bakolas</p>
-<p class="venue">arXiv preprint arXiv:2312.07345, 2023</p>
-<p class="links"><a href="https://arxiv.org/abs/2312.07345">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2023" data-authors="Rohan Chandra, Rahul Menon, Zayne Sprague, Arya Anantula, Joydeep Biswas" data-venue="arXiv">
-<p class="title">Decentralized Social Navigation with Non-Cooperative Robots via Bi-Level Optimization</p>
-<p class="authors">Rohan Chandra, Rahul Menon, Zayne Sprague, Arya Anantula, Joydeep Biswas</p>
-<p class="venue">arXiv preprint arXiv:2306.08815, 2023</p>
-<p class="links"><a href="https://arxiv.org/abs/2306.08815">PDF</a></p>
-</div>
-
-<h4>2022</h4>
-<div class="publication-item" data-year="2022" data-authors="Tianrui Guan, Jun Wang, Shiyi Lan, Rohan Chandra, Zuxuan Wu, Larry Davis, Dinesh Manocha" data-venue="WACV">
-<p class="title">M3detr: Multi-representation, multi-scale, mutual-relation 3d object detection with transformers</p>
-<p class="authors">Tianrui Guan, Jun Wang, Shiyi Lan, Rohan Chandra, Zuxuan Wu, Larry Davis, Dinesh Manocha</p>
-<p class="venue">Proceedings of the IEEE/CVF winter conference on applications of computer vision, 2022</p>
-<p class="links"><a href="https://openaccess.thecvf.com/content/WACV2022/html/Guan_M3DETR_Multi-Representation_Multi-Scale_Mutual-Relation_3D_Object_Detection_With_Transformers_WACV_2022_paper.html">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2022" data-authors="Rohan Chandra, Dinesh Manocha" data-venue="IEEE Robotics and Automation Letters">
-<p class="title">Gameplan: Game-theoretic multi-agent planning with human drivers at intersections, roundabouts, and merging</p>
-<p class="authors">Rohan Chandra, Dinesh Manocha</p>
-<p class="venue">IEEE Robotics and Automation Letters, 2022</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9689991/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2022" data-authors="Nilesh Suriyarachchi, Rohan Chandra, John S Baras, Dinesh Manocha" data-venue="ITSC">
-<p class="title">GAMEOPT: Optimal Real-time Multi-Agent Planning and Control at Dynamic Intersections</p>
-<p class="authors">Nilesh Suriyarachchi, Rohan Chandra, John S Baras, Dinesh Manocha</p>
-<p class="venue">2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), 2022</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9921968/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2022" data-authors="Rohan Chandra, Mingyu Wang, Mac Schwager, Dinesh Manocha" data-venue="ICRA">
-<p class="title">Game-Theoretic Planning for Autonomous Driving among Risk-Aware Human Drivers</p>
-<p class="authors">Rohan Chandra, Mingyu Wang, Mac Schwager, Dinesh Manocha</p>
-<p class="venue">2022 International Conference on Robotics and Automation (ICRA), 2022</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9811865/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2022" data-authors="Trisha Mittal, Puneet Mathur, Rohan Chandra, Apurva Bhatt, Vikram Gupta, Debdoot Mukherjee, Aniket Bera, Dinesh Manocha" data-venue="arXiv">
-<p class="title">Estimating Emotion Contagion on Social Media via Localized Diffusion in Dynamic Graphs</p>
-<p class="authors">Trisha Mittal, Puneet Mathur, Rohan Chandra, Apurva Bhatt, Vikram Gupta, Debdoot Mukherjee, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">arXiv preprint arXiv:2207.07165, 2022</p>
-<p class="links"><a href="https://arxiv.org/abs/2207.07165">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2022" data-authors="Tianrui Guan, Divya Kothandaraman, Rohan Chandra, Adarsh Jagan Sathyamoorthy, Kasun Weerakoon, Dinesh Manocha" data-venue="IEEE Robotics and Automation Letters">
-<p class="title">Ga-nav: Efficient terrain segmentation for robot navigation in unstructured outdoor environments</p>
-<p class="authors">Tianrui Guan, Divya Kothandaraman, Rohan Chandra, Adarsh Jagan Sathyamoorthy, Kasun Weerakoon, Dinesh Manocha</p>
-<p class="venue">IEEE Robotics and Automation Letters, 2022</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9810192/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2022" data-authors="Angelos Mavrogiannis, Rohan Chandra, Dinesh Manocha" data-venue="IEEE Robotics and Automation Letters">
-<p class="title">B-gap: Behavior-rich simulation and navigation for autonomous driving</p>
-<p class="authors">Angelos Mavrogiannis, Rohan Chandra, Dinesh Manocha</p>
-<p class="venue">IEEE Robotics and Automation Letters, 2022</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9716825/">PDF</a></p>
-</div>
-
-<h4>2021</h4>
-<div class="publication-item" data-year="2021" data-authors="Divya Kothandaraman, Rohan Chandra, Dinesh Manocha" data-venue="ICCV">
-<p class="title">Ss-sfda: Self-supervised source-free domain adaptation for road segmentation in hazardous environments</p>
-<p class="authors">Divya Kothandaraman, Rohan Chandra, Dinesh Manocha</p>
-<p class="venue">Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021</p>
-<p class="links"><a href="https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Kothandaraman_SS-SFDA_Self-Supervised_Source-Free_Domain_Adaptation_for_Road_Segmentation_in_Hazardous_ICCVW_2021_paper.html">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2021" data-authors="Divya Kothandaraman, Rohan Chandra, Dinesh Manocha" data-venue="ICCV">
-<p class="title">BoMuDANet: unsupervised adaptation for visual scene understanding in unstructured driving environments</p>
-<p class="authors">Divya Kothandaraman, Rohan Chandra, Dinesh Manocha</p>
-<p class="venue">Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021</p>
-<p class="links"><a href="http://openaccess.thecvf.com/content/ICCV2021W/MAIR2/html/Kothandaraman_BoMuDANet_Unsupervised_Adaptation_for_Visual_Scene_Understanding_in_Unstructured_Driving_ICCVW_2021_paper.html">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2021" data-authors="Rohan Chandra, Aniket Bera, Dinesh Manocha" data-venue="IEEE Transactions on Intelligent Transportation Systems">
-<p class="title">Using graph-theoretic machine learning to predict human driver behavior</p>
-<p class="authors">Rohan Chandra, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">IEEE Transactions on Intelligent Transportation Systems, 2021</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9646493/">PDF</a></p>
-</div>
-
-<h4>2020</h4>
-<div class="publication-item" data-year="2020" data-authors="Uttaran Bhattacharya, Trisha Mittal, Rohan Chandra, Tanmay Randhavane, Aniket Bera, Dinesh Manocha" data-venue="AAAI">
-<p class="title">Step: Spatial temporal graph convolutional networks for emotion perception from gaits</p>
-<p class="authors">Uttaran Bhattacharya, Trisha Mittal, Rohan Chandra, Tanmay Randhavane, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">Proceedings of the AAAI Conference on Artificial Intelligence, 2020</p>
-<p class="links"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/5490">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Trisha Mittal, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, Dinesh Manocha" data-venue="AAAI">
-<p class="title">M3er: Multiplicative multimodal emotion recognition using facial, textual, and speech cues</p>
-<p class="authors">Trisha Mittal, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">Proceedings of the AAAI conference on artificial intelligence, 2020</p>
-<p class="links"><a href="https://aaai.org/ojs/index.php/AAAI/article/view/5492">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Uttaran Bhattacharya, Christian Roncal, Trisha Mittal, Rohan Chandra, Kyra Kapsaskis, Kurt Gray, Aniket Bera, Dinesh Manocha" data-venue="ECCV">
-<p class="title">Take an emotion walk: Perceiving emotions from gaits using hierarchical attention pooling and affective mapping</p>
-<p class="authors">Uttaran Bhattacharya, Christian Roncal, Trisha Mittal, Rohan Chandra, Kyra Kapsaskis, Kurt Gray, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">European Conference on Computer Vision, 2020</p>
-<p class="links"><a href="https://link.springer.com/chapter/10.1007/978-3-030-58607-2_9">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Rohan Chandra, Tianrui Guan, Srujan Panuganti, Trisha Mittal, Uttaran Bhattacharya, Aniket Bera, Dinesh Manocha" data-venue="IEEE Robotics and Automation Letters">
-<p class="title">Forecasting trajectory and behavior of road-agents using spectral clustering in graph-lstms</p>
-<p class="authors">Rohan Chandra, Tianrui Guan, Srujan Panuganti, Trisha Mittal, Uttaran Bhattacharya, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">IEEE Robotics and Automation Letters, 2020</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9126166/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Adarsh Jagan Sathyamoorthy, Jing Liang, Utsav Patel, Tianrui Guan, Rohan Chandra, Dinesh Manocha" data-venue="ICRA">
-<p class="title">Densecavoid: Real-time navigation in dense crowds using anticipatory behaviors</p>
-<p class="authors">Adarsh Jagan Sathyamoorthy, Jing Liang, Utsav Patel, Tianrui Guan, Rohan Chandra, Dinesh Manocha</p>
-<p class="venue">2020 IEEE International Conference on Robotics and Automation (ICRA), 2020</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9197379/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Rohan Chandra, Uttaran Bhattacharya, Trisha Mittal, Xiaoyu Li, Aniket Bera, Dinesh Manocha" data-venue="ICRA">
-<p class="title">Graphrqi: Classifying driver behaviors using graph spectrums</p>
-<p class="authors">Rohan Chandra, Uttaran Bhattacharya, Trisha Mittal, Xiaoyu Li, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">2020 IEEE International Conference on Robotics and Automation (ICRA), 2020</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9196751/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Rohan Chandra, Uttaran Bhattacharya, Trisha Mittal, Aniket Bera, Dinesh Manocha" data-venue="IROS">
-<p class="title">Cmetric: A driving behavior measure using centrality functions</p>
-<p class="authors">Rohan Chandra, Uttaran Bhattacharya, Trisha Mittal, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9341720/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Trisha Mittal, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, Dinesh Manocha" data-venue="ACM Multimedia">
-<p class="title">Emotions don't lie: An audio-visual deepfake detection method using affective cues</p>
-<p class="authors">Trisha Mittal, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">Proceedings of the 28th ACM international conference on multimedia, 2020</p>
-<p class="links"><a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413570">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Rohan Chandra, Uttaran Bhattacharya, Tanmay Randhavane, Aniket Bera, Dinesh Manocha" data-venue="ICRA">
-<p class="title">RoadTrack: Realtime Tracking of Road Agents in Dense and Heterogeneous Environments</p>
-<p class="authors">Rohan Chandra, Uttaran Bhattacharya, Tanmay Randhavane, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">2020 IEEE International Conference on Robotics and Automation (ICRA), 2020</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9196612/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2020" data-authors="Trisha Mittal, Pooja Guhan, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, Dinesh Manocha" data-venue="CVPR">
-<p class="title">Emoticon: Context-aware multimodal emotion recognition using frege's principle</p>
-<p class="authors">Trisha Mittal, Pooja Guhan, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020</p>
-<p class="links"><a href="http://openaccess.thecvf.com/content_CVPR_2020/html/Mittal_EmotiCon_Context-Aware_Multimodal_Emotion_Recognition_Using_Freges_Principle_CVPR_2020_paper.html">PDF</a></p>
-</div>
-
-<h4>2019</h4>
-<div class="publication-item" data-year="2019" data-authors="Rohan Chandra, Tom Goldstein, Christoph Studer" data-venue="SampTA">
-<p class="title">Phasepack: A phase retrieval library</p>
-<p class="authors">Rohan Chandra, Tom Goldstein, Christoph Studer</p>
-<p class="venue">2019 13th International conference on Sampling Theory and Applications (SampTA), 2019</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/9030878/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2019" data-authors="Rohan Chandra, Uttaran Bhattacharya, Christian Roncal, Aniket Bera, Dinesh Manocha" data-venue="ACM Computer Science in Cars Symposium">
-<p class="title">Robusttp: End-to-end trajectory prediction for heterogeneous road-agents in dense traffic with noisy sensor inputs</p>
-<p class="authors">Rohan Chandra, Uttaran Bhattacharya, Christian Roncal, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">Proceedings of the 3rd ACM Computer Science in Cars Symposium, 2019</p>
-<p class="links"><a href="https://dl.acm.org/doi/abs/10.1145/3359999.3360495">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2019" data-authors="Rohan Chandra, Uttaran Bhattacharya, Aniket Bera, Dinesh Manocha" data-venue="IROS">
-<p class="title">Densepeds: Pedestrian tracking in dense crowds using front-rvo and sparse features</p>
-<p class="authors">Rohan Chandra, Uttaran Bhattacharya, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019</p>
-<p class="links"><a href="https://ieeexplore.ieee.org/abstract/document/8968470/">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2019" data-authors="Rohan Chandra, Uttaran Bhattacharya, Aniket Bera, Dinesh Manocha" data-venue="CVPR">
-<p class="title">Traphic: Trajectory prediction in dense and heterogeneous traffic using weighted interactions</p>
-<p class="authors">Rohan Chandra, Uttaran Bhattacharya, Aniket Bera, Dinesh Manocha</p>
-<p class="venue">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019</p>
-<p class="links"><a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.html">PDF</a></p>
-</div>
-
-<h4>2017</h4>
-<div class="publication-item" data-year="2017" data-authors="Rohan Chandra, Sachin Grover, Kyungjun Lee, Moustafa Meshry, Ahmed Taha" data-venue="arXiv">
-<p class="title">Texture synthesis with recurrent variational auto-encoder</p>
-<p class="authors">Rohan Chandra, Sachin Grover, Kyungjun Lee, Moustafa Meshry, Ahmed Taha</p>
-<p class="venue">arXiv preprint arXiv:1712.08838, 2017</p>
-<p class="links"><a href="https://arxiv.org/abs/1712.08838">PDF</a></p>
-</div>
-
-<h4>2016</h4>
-<div class="publication-item" data-year="2016" data-authors="Arthur Benjamin, Rohan Chandra" data-venue="The College Mathematics Journal">
-<p class="title">Multiplying by 9</p>
-<p class="authors">Arthur Benjamin, Rohan Chandra</p>
-<p class="venue">The College Mathematics Journal, 2016</p>
-<p class="links"><a href="https://www.tandfonline.com/doi/pdf/10.4169/college.math.j.47.4.281">PDF</a></p>
-</div>
-
-<h4>2015</h4>
-<div class="publication-item" data-year="2015" data-authors="Rohan Chandra, Ravi Teja, Neeta Pandey, Rajeshwari Pandey" data-venue="International Journal of Electrical and Electronics Engineering">
-<p class="title">OTRA based R-2R Ladder and weighted resistors DAC realization</p>
-<p class="authors">Rohan Chandra, Ravi Teja, Neeta Pandey, Rajeshwari Pandey</p>
-<p class="venue">International Journal of Electrical and Electronics Engineering, 2015</p>
-<p class="links"><a href="https://scholar.google.com/scholar?cluster=18269028499798668095&hl=en&oi=scholarr">PDF</a></p>
-</div>
-
-<div class="publication-item" data-year="2015" data-authors="Rashika Anurag, Neeta Pandey, Rohan Chandra, Rajeshwari Pandey" data-venue="Journal on Electronics Engineering">
-<p class="title">Voltage mode second order notch/all-pass filter realization using OTRA</p>
-<p class="authors">Rashika Anurag, Neeta Pandey, Rohan Chandra, Rajeshwari Pandey</p>
-<p class="venue">i-manager's Journal on Electronics Engineering, 2015</p>
-<p class="links"><a href="https://scholar.google.com/scholar?cluster=18269028499798668095&hl=en&oi=scholarr">PDF</a></p>
-</div>
-
-</div>
+<script src="{{ '/js/publications.js' | relative_url }}"></script>
 
 <style>
+/* ---------------------------------------------------------------- search */
+
 .search-container {
   margin: 20px 0;
   padding: 10px;
@@ -471,12 +62,184 @@ permalink: /publication/
   background: white;
 }
 
+/* -------------------------------------------------------------- timeline */
+
+.pub-timeline {
+  --rail: 7.5rem;          /* width of the year column                   */
+  --gap: 2.25rem;          /* space between the line and the cards        */
+  --stick: var(--pub-stick, 7rem);
+  --navy: 35, 45, 75;
+  --accent: 229, 114, 0;
+
+  position: relative;
+  margin-top: 2.5rem;
+}
+
+/* the hairline */
+.pub-timeline::before,
+.pub-timeline::after {
+  content: "";
+  position: absolute;
+  left: calc(var(--rail) - 1px);
+  width: 2px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.pub-timeline::before {
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(var(--navy), 0) 0,
+    rgba(var(--navy), 0.13) 5rem,
+    rgba(var(--navy), 0.13) calc(100% - 5rem),
+    rgba(var(--navy), 0) 100%
+  );
+}
+
+/* the progress trace that grows behind you */
+.pub-timeline::after {
+  top: 0;
+  height: var(--pub-progress, 0px);
+  background: linear-gradient(
+    to bottom,
+    rgba(var(--navy), 0) 0,
+    rgba(var(--navy), 0.1) 4rem,
+    rgba(var(--navy), 0.42) 100%
+  );
+}
+
+.pub-year {
+  position: relative;
+  display: grid;
+  grid-template-columns: var(--rail) minmax(0, 1fr);
+  column-gap: var(--gap);
+  padding-bottom: 2.5rem;
+}
+
+.pub-year.hidden { display: none; }
+
+/* ------------------------------------------------------------- year rail */
+
+.pub-year-rail {
+  position: sticky;
+  top: var(--stick);
+  align-self: start;
+  text-align: right;
+  padding-right: 0.9rem;
+}
+
+.pub-year .pub-year-label {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: clamp(2rem, 4.6vw, 3.1rem);
+  font-weight: 700;
+  line-height: 0.95;
+  letter-spacing: -0.01em;
+  font-variant-numeric: tabular-nums;
+  color: rgba(var(--navy), 0.24);
+  transition: color 420ms ease, transform 420ms ease,
+              -webkit-text-stroke-color 420ms ease;
+}
+
+/* outline numerals that fill in as the year becomes current */
+@supports (-webkit-text-stroke: 1px #000) {
+  .pub-year .pub-year-label {
+    color: transparent;
+    -webkit-text-stroke: 1.25px rgba(var(--navy), 0.32);
+  }
+  .pub-year.is-active .pub-year-label {
+    color: rgba(var(--navy), 0.92);
+    -webkit-text-stroke-color: transparent;
+  }
+}
+
+.pub-year.is-active .pub-year-label {
+  color: rgba(var(--navy), 0.92);
+  transform: translateX(-2px);
+}
+
+.pub-year-count {
+  display: block;
+  margin-top: 0.45rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(var(--navy), 0.5);
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: opacity 420ms ease, transform 420ms ease;
+}
+
+.pub-year.is-active .pub-year-count {
+  opacity: 1;
+  transform: none;
+}
+
+/* while a search is running, every year shows its live match count */
+.pub-timeline.is-filtering .pub-year-count {
+  opacity: 1;
+  transform: none;
+  color: rgba(var(--accent), 0.9);
+}
+
+.pub-empty {
+  margin: 1.5rem 0 3rem;
+  padding-left: calc(var(--rail) + var(--gap));
+  color: rgba(var(--navy), 0.55);
+  font-style: italic;
+}
+
+/* the node that rides the line with the pinned year */
+.pub-year-node {
+  position: absolute;
+  left: 100%;
+  top: 0.62em;
+  transform: translate(calc(-50% - 1px), -50%);
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid rgba(var(--navy), 0.28);
+  transition: border-color 420ms ease, background 420ms ease,
+              box-shadow 420ms ease;
+}
+
+.pub-year.is-active .pub-year-node {
+  background: rgb(var(--accent));
+  border-color: rgb(var(--accent));
+  box-shadow: 0 0 0 5px rgba(var(--accent), 0.15);
+}
+
+/* ----------------------------------------------------------------- cards */
+
 .publication-item {
-  margin-bottom: 2em;
-  padding: 1em;
-  border-radius: 4px;
+  margin-bottom: 1.5rem;
+  padding: 1.15em 1.25em;
+  border-radius: 6px;
   background: #ffffff;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 260ms ease, transform 260ms ease;
+}
+
+.publication-item:hover {
+  box-shadow: 0 6px 18px rgba(var(--navy), 0.12);
+  transform: translateY(-2px);
+}
+
+.reveal-on .publication-item {
+  opacity: 0;
+  transform: translateY(14px);
+}
+
+.reveal-on .publication-item.is-revealed {
+  opacity: 1;
+  transform: none;
+  transition: opacity 620ms cubic-bezier(0.22, 1, 0.36, 1),
+              transform 620ms cubic-bezier(0.22, 1, 0.36, 1),
+              box-shadow 260ms ease;
 }
 
 .publication-item .title {
@@ -502,8 +265,6 @@ permalink: /publication/
 }
 
 .publication-item .links a {
-  display: inline-block;
-  margin-right: 1em;
   color: #3498db;
   text-decoration: none;
 }
@@ -512,15 +273,54 @@ permalink: /publication/
   text-decoration: underline;
 }
 
-.hidden {
-  display: none;
+.hidden { display: none; }
+
+/* ---------------------------------------------------------------- mobile */
+
+@media (max-width: 720px) {
+  .pub-timeline::before,
+  .pub-timeline::after { display: none; }
+
+  .pub-year {
+    display: block;
+    padding-bottom: 1.5rem;
+  }
+
+  .pub-year-rail {
+    top: 0;
+    z-index: 2;
+    text-align: left;
+    padding: 0.4rem 0 0.5rem;
+    margin-bottom: 0.75rem;
+    background: linear-gradient(to bottom,
+      rgba(255, 255, 255, 0.96) 65%, rgba(255, 255, 255, 0));
+    border-bottom: 1px solid rgba(var(--navy), 0.1);
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+  }
+
+  .pub-year .pub-year-label { font-size: 1.6rem; }
+
+  .pub-year-count {
+    margin-top: 0;
+    opacity: 1;
+    transform: none;
+  }
+
+  .pub-year-node { display: none; }
+
+  .pub-empty { padding-left: 0; }
 }
 
-h4 {
-  margin-top: 2em;
-  color: #2c3e50;
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 0.5em;
+@media (prefers-reduced-motion: reduce) {
+  .publication-item,
+  .pub-year-label,
+  .pub-year-count,
+  .pub-year-node { transition: none !important; }
+
+  .publication-item:hover { transform: none; }
+  .reveal-on .publication-item { opacity: 1; transform: none; }
 }
 </style>
 
@@ -533,7 +333,7 @@ function filterPublications() {
   Array.from(publications).forEach(pub => {
     let match = false;
     const text = pub.textContent.toLowerCase();
-    
+
     switch(searchType) {
       case 'year':
         match = pub.getAttribute('data-year').includes(searchInput);
@@ -551,9 +351,18 @@ function filterPublications() {
         match = text.includes(searchInput);
         break;
     }
-    
+
     pub.classList.toggle('hidden', !match);
   });
+
+  // collapse a year on the timeline when every paper in it is filtered out
+  document.querySelectorAll('.pub-year').forEach(section => {
+    const visible = section.querySelector('.publication-item:not(.hidden)');
+    section.classList.toggle('hidden', !visible);
+  });
+
+  if (window.refreshPublicationTimeline) {
+    window.refreshPublicationTimeline();
+  }
 }
 </script>
-

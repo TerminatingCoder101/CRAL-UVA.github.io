@@ -43,7 +43,7 @@
   &lt;li&gt;Dr. Konrad Kording&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<pubDate>Mon, 03 Jun 2024 00:00:00 -0700</pubDate>
+				<pubDate>Mon, 03 Jun 2024 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2024/06/03/llm4papers.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2024/06/03/llm4papers.html</guid>
 			</item>
@@ -413,7 +413,7 @@ done&lt;/span&gt; | parallel &lt;span class=&quot;nt&quot;&gt;-j&lt;/span&gt; 4 
 
 &lt;p&gt;In this post, we looked at how to use Docker to run a machine learning experiment. We used Docker to create a reproducible environment, and to run the experiment on a remote server. We also used Docker to run a hyperparameter search, and to see the status of the server. This is just a small sample of what you can do with Docker. And while it may feel like there is some extra overhead to using Docker, you may discover that many of the features of containerized, isolated environments are well worth learning a powerful new tool!&lt;/p&gt;
 </description>
-				<pubDate>Fri, 28 Oct 2022 00:00:00 -0700</pubDate>
+				<pubDate>Fri, 28 Oct 2022 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2022/10/28/LabTeaching-Docker-for-Science.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2022/10/28/LabTeaching-Docker-for-Science.html</guid>
 			</item>
@@ -453,7 +453,7 @@ done&lt;/span&gt; | parallel &lt;span class=&quot;nt&quot;&gt;-j&lt;/span&gt; 4 
 &lt;h4 id=&quot;10-be-your-own-best-ally&quot;&gt;10. Be your own best ally.&lt;/h4&gt;
 &lt;p&gt;Students often hesitate to speak up when things aren’t going well. Put your interests first and feel free to let your mentor know how you are feeling. Say something if you ever feel stuck (for weeks, say) or like your project is not going the way you want it to. Say something if you feel there is something fundamentally wrong in the way you are approaching things. Your career goals and your mental health are very important, to both you and your mentor. Your mentor has a million things on their mind and may not have the bandwidth to worry/notice.&lt;/p&gt;
 </description>
-				<pubDate>Wed, 30 Jun 2021 00:00:00 -0700</pubDate>
+				<pubDate>Wed, 30 Jun 2021 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2021/06/30/meeting-with-mentors.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2021/06/30/meeting-with-mentors.html</guid>
 			</item>
@@ -552,7 +552,7 @@ Attach this email correspondence to the report as an additional receipt image, a
 &lt;p&gt;For computing equipment, if possible, it’s easiest to order from the Penn computer store (Computer Connection https://cms.business-services.upenn.edu/computerstore/), so you can look up the item there first, and quote the item ID # if you find it there. Otherwise, you can look for the item on Amazon, direct from the vendor, etc, and provide a link.&lt;/p&gt;
 
 </description>
-				<pubDate>Fri, 20 Dec 2019 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 20 Dec 2019 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2019/12/20/reimbursement.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2019/12/20/reimbursement.html</guid>
 			</item>
@@ -789,7 +789,7 @@ to get this done. Often these are resources we want, like how-to’s.&lt;/li&gt;
 &lt;p&gt;That’s the list! There are still things to be voted on, too – it’s an ongoing process.
 An orientation buddy system and more social events are likely upcoming additions.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 20 Dec 2019 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 20 Dec 2019 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2019/12/20/lab-redesign.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2019/12/20/lab-redesign.html</guid>
 			</item>
@@ -810,7 +810,7 @@ Psychology department here: &lt;a href=&quot;https://psychology.sas.upenn.edu/ro
 
 &lt;p&gt;Hope this is helpful!&lt;/p&gt;
 </description>
-				<pubDate>Tue, 23 Apr 2019 00:00:00 -0700</pubDate>
+				<pubDate>Tue, 23 Apr 2019 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2019/04/23/booking-rooms.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2019/04/23/booking-rooms.html</guid>
 			</item>
@@ -1216,7 +1216,7 @@ Psychology department here: &lt;a href=&quot;https://psychology.sas.upenn.edu/ro
   &lt;li&gt;&lt;a href=&quot;http://github.com/KordingLab/lab_teaching_2015&quot;&gt;2015 topics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<pubDate>Wed, 29 Aug 2018 00:00:00 -0700</pubDate>
+				<pubDate>Wed, 29 Aug 2018 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2018/08/29/upcoming-lab-teaching.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/08/29/upcoming-lab-teaching.html</guid>
 			</item>
@@ -1239,7 +1239,7 @@ Please contact us if you want to add your translated version of the paper here.&
 &lt;p&gt;همینطور نمودار آن در اینجا قرار دارد:
 &lt;a href=&quot;http://kordinglab.com/images/post/ten_simple_rules/farsi_summary.jpeg&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-				<pubDate>Mon, 12 Feb 2018 00:00:00 -0800</pubDate>
+				<pubDate>Mon, 12 Feb 2018 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2018/02/12/ten-simple-rule-translate.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/02/12/ten-simple-rule-translate.html</guid>
 			</item>
@@ -1270,7 +1270,7 @@ green curry in the retreat, that was quite yummy.&lt;/p&gt;
   &lt;img width=&quot;500&quot; src=&quot;/images/post/lab_retreat_2016/4.jpg&quot; data-action=&quot;zoom&quot; /&gt;
 &lt;/center&gt;&lt;/figure&gt;
 </description>
-				<pubDate>Fri, 03 Feb 2017 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 03 Feb 2017 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2017/02/03/lab-retreat-2016.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2017/02/03/lab-retreat-2016.html</guid>
 			</item>
@@ -1346,7 +1346,7 @@ green curry in the retreat, that was quite yummy.&lt;/p&gt;
 &lt;p&gt;Note: If you created a screen, you can leave the screen (detach) by pressing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CTRL+a+d&lt;/code&gt;.
 If you logout of the machine, the tunnel will be disconneted but iPython notebook will remain running. Next time you only need to repeat the tunnel command, you don’t need to initiate iPython notebook again.&lt;/p&gt;
 </description>
-				<pubDate>Thu, 18 Aug 2016 00:00:00 -0700</pubDate>
+				<pubDate>Thu, 18 Aug 2016 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2016/08/18/quadcorn-tunnel.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/08/18/quadcorn-tunnel.html</guid>
 			</item>
@@ -1468,7 +1468,7 @@ $ python setup.py install
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ conda install opencv
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-				<pubDate>Wed, 17 Aug 2016 00:00:00 -0700</pubDate>
+				<pubDate>Wed, 17 Aug 2016 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2016/08/17/quadcorn-software.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/08/17/quadcorn-software.html</guid>
 			</item>
@@ -1620,7 +1620,7 @@ Built on Tue_Aug_11_14:27:32_CDT_2015
 Cuda compilation tools, release 7.5, V7.5.17
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-				<pubDate>Fri, 12 Aug 2016 00:00:00 -0700</pubDate>
+				<pubDate>Fri, 12 Aug 2016 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2016/08/12/quadcorn.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/08/12/quadcorn.html</guid>
 			</item>
@@ -1690,7 +1690,7 @@ First, we can create python file name &lt;code class=&quot;language-plaintext hi
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;~/spark-1.6.0-bin-hadoop2.6/bin/pyspark &lt;span class=&quot;nt&quot;&gt;--master&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;local&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;8] &lt;span class=&quot;nt&quot;&gt;--driver-memory&lt;/span&gt; 12g &lt;span class=&quot;nt&quot;&gt;--executor-memory&lt;/span&gt; 12g spark_example.py
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-				<pubDate>Fri, 18 Mar 2016 00:00:00 -0700</pubDate>
+				<pubDate>Fri, 18 Mar 2016 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2016/03/18/spark-script.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/03/18/spark-script.html</guid>
 			</item>
@@ -1729,7 +1729,7 @@ the result of these projects soon!&lt;/p&gt;
 
 &lt;p&gt;(photos by Titipat Achakulvisut)&lt;/p&gt;
 </description>
-				<pubDate>Tue, 15 Mar 2016 00:00:00 -0700</pubDate>
+				<pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2016/03/15/metaknowledge-2016.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/03/15/metaknowledge-2016.html</guid>
 			</item>
@@ -1756,7 +1756,7 @@ developers (&lt;a href=&quot;http://www.chipy.org/pages/SIGs/&quot;&gt;more info
 
 &lt;iframe src=&quot;https://docs.google.com/presentation/d/1_4uyaiswMFauIy3PGdEWY7ZDemzqz9w2f9DLP510ZFY/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </description>
-				<pubDate>Fri, 11 Mar 2016 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 11 Mar 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/03/11/chipy_presentation.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/03/11/chipy_presentation.html</guid>
 			</item>
@@ -1820,7 +1820,7 @@ developers (&lt;a href=&quot;http://www.chipy.org/pages/SIGs/&quot;&gt;more info
   &lt;img width=&quot;500&quot; src=&quot;/images/post/konrad_professor/11.jpg&quot; data-action=&quot;zoom&quot; /&gt;
 &lt;/center&gt;&lt;/figure&gt;
 </description>
-				<pubDate>Tue, 08 Mar 2016 00:00:00 -0800</pubDate>
+				<pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/03/08/congrat-professor-kording.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/03/08/congrat-professor-kording.html</guid>
 			</item>
@@ -1948,7 +1948,7 @@ Also there is a way to connect using Python with  Pandas library and &lt;a href=
 
 &lt;p&gt;&lt;strong&gt;Ans.&lt;/strong&gt; sargable means that a query is capable of having the query engine optimize the execution plan that the query use&lt;/p&gt;
 </description>
-				<pubDate>Mon, 29 Feb 2016 00:00:00 -0800</pubDate>
+				<pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/02/29/sql-exam-sample.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/02/29/sql-exam-sample.html</guid>
 			</item>
@@ -1979,7 +1979,7 @@ joined: 2014
 
 &lt;p&gt;All publications from the lab are located in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;publications.md&lt;/code&gt;. Please upload new publication on your own!&lt;/p&gt;
 </description>
-				<pubDate>Fri, 12 Feb 2016 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 12 Feb 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/02/12/add-new-people.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/02/12/add-new-people.html</guid>
 			</item>
@@ -2052,7 +2052,7 @@ categories: scientists
 
 &lt;p&gt;First, Jekyll allows very easy way to transform and render plain markdown file (lingua franca of open-source community) to html which is our blog. It’s free hosting on with Github pages which just updating to Jekyll 3.0 which is much faster. See more at &lt;a href=&quot;https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0&quot;&gt;GitHub Pages now faster and simpler with Jekyll 3.0&lt;/a&gt; blog. It uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;kramdown&lt;/code&gt; markdown which is very intuitive way to write.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 05 Feb 2016 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 05 Feb 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/02/05/how-to-add-blog.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/02/05/how-to-add-blog.html</guid>
 			</item>
@@ -2079,7 +2079,7 @@ categories: scientists
 
 &lt;p&gt;Should you be in the lab in the first place? Read &lt;a href=&quot;http://www.nature.com/nrm/journal/v9/n5/full/nrm2389.html&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
 </description>
-				<pubDate>Sat, 23 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Sat, 23 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/23/productive-in-the-lab.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/23/productive-in-the-lab.html</guid>
 			</item>
@@ -2190,7 +2190,7 @@ Computational Neuroscience on the World Wide Web&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.cns.nyu.edu/events/vjclub/classics.html&quot;&gt;Classic Papers in Vision&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<pubDate>Wed, 20 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/20/k-hole.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/20/k-hole.html</guid>
 			</item>
@@ -2215,7 +2215,7 @@ Computational Neuroscience on the World Wide Web&lt;/a&gt;&lt;/li&gt;
 
 &lt;p&gt;Konrad&lt;/p&gt;
 </description>
-				<pubDate>Fri, 15 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 15 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/15/hiring.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/15/hiring.html</guid>
 			</item>
@@ -2704,7 +2704,7 @@ important, and what you learned, and wants to see just enough procedure to be
 confident that you didn’t mess up the analysis. Think of how to tell the story of what you
 learned, not the story of what you did.&lt;/p&gt;
 </description>
-				<pubDate>Thu, 14 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Thu, 14 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/14/writing-guide.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/14/writing-guide.html</guid>
 			</item>
@@ -2742,7 +2742,7 @@ learned, not the story of what you did.&lt;/p&gt;
   &lt;li&gt;I sometimes have them figure out the microstructure of the text. How one sentence feeds into the next can often be improved iteratively in a good way.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<pubDate>Wed, 13 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Wed, 13 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/13/writing-together.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/13/writing-together.html</guid>
 			</item>
@@ -2797,7 +2797,7 @@ learned, not the story of what you did.&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://twitter.com/jovo&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@Jovo&lt;/code&gt;&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/KordingLab&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@Kordinglab&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-				<pubDate>Sat, 09 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Sat, 09 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/09/data-skills.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/09/data-skills.html</guid>
 			</item>
@@ -2822,7 +2822,7 @@ learned, not the story of what you did.&lt;/p&gt;
 
 &lt;p&gt;[1] &lt;a href=&quot;https://www.princeton.edu/~wbialek/our_papers/strong+al_98a.pdf&quot;&gt;STRONG Steven P., Roland KOBERLE, Robert R. de RUYTER VAN STEVENINCK, and William BIALEK. “Entropy and information in neural spike trains,” Physical Review Letters 80 (Jan. 5, 1998), 197–200, DOI: 10.1103/PhysRevLett.80.197 (cited on p. 4)&lt;/a&gt;&lt;/p&gt;
 </description>
-				<pubDate>Wed, 06 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Wed, 06 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/06/bits-per-sec-human-brain.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/06/bits-per-sec-human-brain.html</guid>
 			</item>
@@ -2877,7 +2877,7 @@ learned, not the story of what you did.&lt;/p&gt;
 &lt;p&gt;see more at &lt;i class=&quot;fa fa-linkedin-square&quot;&gt;&lt;/i&gt;
 &lt;a href=&quot;https://www.linkedin.com/in/jeongyoonlee&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jeongyoonlee&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-				<pubDate>Tue, 05 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/05/leave-neuroscience.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/05/leave-neuroscience.html</guid>
 			</item>
@@ -2940,7 +2940,7 @@ Relevance is affected both by the novelty of the contribution and by the importa
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<pubDate>Mon, 04 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/04/paper-editing.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/04/paper-editing.html</guid>
 			</item>
@@ -2994,7 +2994,7 @@ Relevance is affected both by the novelty of the contribution and by the importa
 &lt;span class=&quot;n&quot;&gt;enet_cv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;plot_oof_devs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-				<pubDate>Mon, 04 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/04/glmnet-python.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/04/glmnet-python.html</guid>
 			</item>
@@ -3040,7 +3040,7 @@ From my perspective the main problem is that it confounds three things.&lt;/p&gt
 
 &lt;p&gt;I think it would be nice to build a journal around these ideas.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Sun, 03 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/03/what-wrong-with-publishing.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/03/what-wrong-with-publishing.html</guid>
 			</item>
@@ -3110,7 +3110,7 @@ From my perspective the main problem is that it confounds three things.&lt;/p&gt
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-				<pubDate>Sat, 02 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Sat, 02 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/02/summary-stat.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/02/summary-stat.html</guid>
 			</item>
@@ -3120,7 +3120,7 @@ From my perspective the main problem is that it confounds three things.&lt;/p&gt
         <description>&lt;p&gt;Some how we have a lot of good material on the page and it will be nice to
 share it on the nice blog!&lt;/p&gt;
 </description>
-				<pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+				<pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/2016/01/01/hello.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2016/01/01/hello.html</guid>
 			</item>
@@ -3253,7 +3253,7 @@ all ports and lets start installing all again!&lt;/p&gt;
   &lt;li&gt;How to create and custom ipython profile &lt;a href=&quot;https://github.com/titipata/klab_ipython_notebook&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<pubDate>Sat, 01 Aug 2015 00:00:00 -0700</pubDate>
+				<pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2015/08/01/macports.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2015/08/01/macports.html</guid>
 			</item>
@@ -3323,7 +3323,7 @@ Password is the last name of the person who co-organizes ACMC with Konrad&lt;/p&
   &lt;li&gt;email us at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reachingdatabase@gmail.com&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<pubDate>Mon, 01 Jun 2015 00:00:00 -0700</pubDate>
+				<pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
 				<link>http://localhost:4000/2015/06/01/dream-dataset.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2015/06/01/dream-dataset.html</guid>
 			</item>
