@@ -1,6 +1,6 @@
 ---
 name: Sean Ruan
-position: ug
+position: alumni
 avatar: ruan.jpg
 ---
 

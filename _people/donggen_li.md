@@ -1,6 +1,6 @@
 ---
 name: Donggen Li
-position: gradstudent
+position: alumni
 avatar: donggen.JPG
 twitter:
 ---

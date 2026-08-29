@@ -7,7 +7,7 @@ permalink: /publication/
   <h2> <span style="color:#232D4B;">Towards <span style="color:#E57200;">Human-Like</span> Mobility and Autonomy for Robots in the Real World</span></h2> 
 </center>
 <br>
-<center><p>I work on human-like autonomy for robots. Human-like autonomy for me means three things: the robot should be able to generalize in open worlds, they should be able to reason about human intent, and they should be able to perform agile control in underactuated regimes. My current work focuses on HLA for multi-robot and human-robot systems.</p></center>
+<center><p>Human-like autonomy for me means three things: the robot should be able to generalize in open worlds, they should be able to reason about human intent, and they should be agile in underactuated regimes. My current work focuses on human-like autonomy for multi-robot and human-robot systems.</p></center>
 
 <!-- For those interested in numbers, see Rohan's [google scholar citations profile](https://scholar.google.com/citations?user=uOIgTt8AAAAJ&hl=). -->
 <!-- <hr> -->

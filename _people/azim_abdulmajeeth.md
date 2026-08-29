@@ -1,6 +1,6 @@
 ---
 name: Azim Abdulmajeeth
-position: ug
+position: alumni
 avatar: abdulmajeeth.jpg
 twitter:
 ---

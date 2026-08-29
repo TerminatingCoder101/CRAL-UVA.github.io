@@ -1,6 +1,6 @@
 ---
 name: Himesh Ahuja
-position: ug
+position: alumni
 avatar: ahuja.jpg
 ---
 
