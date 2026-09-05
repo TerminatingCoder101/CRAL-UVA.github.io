@@ -1,7 +1,7 @@
 ---
 name: Sagar Shah
 position: ug
-avatar:
+avatar: Shah2.jpg
 twitter:
 ---
 
